@@ -1,0 +1,20 @@
+  164  git add .
+  165  git status
+  166  git commit -m "commit 03 de Yesenia Berrio"
+  167  git push origin feature
+  168  git checkout master
+  169  git branch -M main
+  170  ls
+  171  mv index.html/resumenSoftware.txt
+  172  ls
+  173  pwd
+  174  mv index.html resumenSoftware.txt
+  175  pwd
+  176  mv main.js resumenHardware.txt
+  177  ls
+  178  pwd
+  179  touch comandos.txt
+  180  ls
+  181  pwd
+  182  history
+  183  history 20 > comandos.txt
